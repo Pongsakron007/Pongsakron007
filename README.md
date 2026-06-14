@@ -41,7 +41,3 @@ I am a former \*\*Electrical Engineering graduate\*\* current working as a \*\*P
 <a href="http://www.github.com/Pongsakron007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pongsakron007&stroke=10b981&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 <a href="https://github.com/Pongsakron007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pongsakron007&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
