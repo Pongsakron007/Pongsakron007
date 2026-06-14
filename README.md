@@ -16,6 +16,8 @@ I am a former \*\*Electrical Engineering graduate\*\* current working as a \*\*P
 
 \- 🛠️ Building a real-time data streaming portfolio project using \*\*Azure Event Hubs\*\*, \*\*Azure Databricks\*\*, and \*\*Power BI\*\*.
 
+\- 🎬 Developing an enterprise-grade Netflix Data Warehouse pipeline using \*\*Databricks PySpark Structured Streaming\*\* and \*\*Change Data Feed (CDF)\*\*—implementing a \*\*Medallion Architecture\*\*, \*\*SCD Type 2\*\*, \*\*DQ Framework*\*, and \*\*Snowflake/Star Schema\*\* optimization
+
 \- 🎯 Aiming for the \*\*Databricks Certified Data Engineer Associate\*\* certification next.
 
 \---
