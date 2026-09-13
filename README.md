@@ -80,19 +80,19 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>SQL
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
+            <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="48" height="48" alt="Azure" />
             <br>Azure
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.simpleicons.org/databricks/FF3621" width="45" height="45" alt="Databricks" />
+            <img src="https://api.iconify.design/logos:databricks.svg" width="48" height="48" alt="Databricks" />
             <br>Databricks
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="45" height="45" alt="Airflow" />
+            <img src="https://api.iconify.design/logos:airflow-icon.svg" width="48" height="48" alt="Airflow" />
             <br>Airflow
         </td>
         <td align="center" width="90">
-            <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white" width="45" height="45" alt="dbt" />
+            <img src="https://api.iconify.design/logos:dbt-icon.svg" width="48" height="48" alt="dbt" />
             <br>dbt
         </td>
         <td align="center" width="90">
@@ -100,7 +100,7 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>Docker
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+            <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="PostgreSQL" />
             <br>PostgreSQL
         </td>
     </tr>
