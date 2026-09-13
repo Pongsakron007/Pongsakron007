@@ -80,19 +80,25 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>SQL
         </td>
         <td align="center" width="90">
-            <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="48" height="48" alt="Azure" />
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="Azure" />
             <br>Azure
         </td>
         <td align="center" width="90">
-            <img src="https://api.iconify.design/logos:databricks.svg" width="48" height="48" alt="Databricks" />
+            <a href="#">
+                <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
+            </a>
             <br>Databricks
         </td>
         <td align="center" width="90">
-            <img src="https://api.iconify.design/logos:airflow-icon.svg" width="48" height="48" alt="Airflow" />
+            <a href="#">
+                <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48" height="48" alt="Airflow" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
+            </a>
             <br>Airflow
         </td>
         <td align="center" width="90">
-            <img src="https://api.iconify.design/logos:dbt-icon.svg" width="48" height="48" alt="dbt" />
+            <a href="#">
+                <img src="https://cdn.simpleicons.org/dbt/FF694B" width="48" height="48" alt="dbt" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
+            </a>
             <br>dbt
         </td>
         <td align="center" width="90">
@@ -100,7 +106,10 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>Docker
         </td>
         <td align="center" width="90">
-            <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="0" height="0" alt="" style="display:none;" />
+            <a href="#">
+                <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'" />
+            </a>
             <br>PostgreSQL
         </td>
     </tr>
