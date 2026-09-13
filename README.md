@@ -80,21 +80,19 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>SQL
         </td>
         <td align="center" width="90">
-            <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="48" height="48" alt="Azure" />
+            <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
             <br>Azure
         </td>
         <td align="center" width="90">
-            <a href="#">
-                <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-            </a>
+            <img src="https://cdn.simpleicons.org/databricks/FF3621" width="45" height="45" alt="Databricks" />
             <br>Databricks
         </td>
         <td align="center" width="90">
-            <img src="https://api.iconify.design/logos:airflow-icon.svg" width="48" height="48" alt="Airflow" />
+            <img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Airflow" />
             <br>Airflow
         </td>
         <td align="center" width="90">
-            <img src="https://api.iconify.design/logos:dbt-icon.svg" width="48" height="48" alt="dbt" />
+            <img src="https://skillicons.dev/icons?i=dbt" width="45" height="45" alt="dbt" />
             <br>dbt
         </td>
         <td align="center" width="90">
@@ -102,7 +100,7 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>Docker
         </td>
         <td align="center" width="90">
-            <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
             <br>PostgreSQL
         </td>
     </tr>
@@ -122,7 +120,7 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
   <a href="https://medium.com/@pongsakronk007" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.facebook.com/พงศกร กุลนาดา" target="_blank">
+  <a href="https://www.facebook.com/%E0%B8%00%E0%B8%87%E0%B8%A0%E0%B8%81%E0%B8%A3%20%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B2" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:pongsakronk007@gmail.com" target="_blank">
