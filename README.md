@@ -25,7 +25,7 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
 - 🌍  I'm based in Thailand
 - ✉️  You can contact me at [pongsakronk007@gmail.com](mailto:pongsakronk007@gmail.com)
 - 🧠  I'm currently learning Databricks for Data Engineers Bootcamp2
-- 💬  Ask me about *Amor Fati* — Embrace the challenges, focus on what you can control, and master the craft day by day. I apply a disciplined, growth-oriented mindset to both software engineering and personal development, ensuring every pipeline I build is as robust and reliable as an industrial control system.
+- 💬  Core Philosophy: *Amor Fati* — Embrace the challenges, focus on what you can control, and master the craft day by day. I apply a disciplined, growth-oriented mindset to both software engineering and personal development, ensuring every pipeline I build is as robust and reliable as an industrial control system.
 
 ---
 
