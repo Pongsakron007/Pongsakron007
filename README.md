@@ -92,7 +92,7 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>Airflow
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.simpleicons.org/dbt/FF694B" width="45" height="45" alt="dbt" />
+            <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white" width="45" height="45" alt="dbt" />
             <br>dbt
         </td>
         <td align="center" width="90">
