@@ -80,19 +80,21 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>SQL
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
+            <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="48" height="48" alt="Azure" />
             <br>Azure
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.simpleicons.org/databricks/FF3621" width="45" height="45" alt="Databricks" />
+            <a href="#">
+                <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
+            </a>
             <br>Databricks
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Airflow" />
+            <img src="https://api.iconify.design/logos:airflow-icon.svg" width="48" height="48" alt="Airflow" />
             <br>Airflow
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=dbt" width="45" height="45" alt="dbt" />
+            <img src="https://api.iconify.design/logos:dbt-icon.svg" width="48" height="48" alt="dbt" />
             <br>dbt
         </td>
         <td align="center" width="90">
@@ -100,7 +102,7 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>Docker
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+            <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="PostgreSQL" />
             <br>PostgreSQL
         </td>
     </tr>
