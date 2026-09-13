@@ -1,119 +1,45 @@
-# Welcome to my profile! <a href="https://github.com/your-username"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<div align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pongsakron Kulnada
+===========================================================================================================================================
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,25:ff0080,50:4776e6,75:1D9E75,100:0f7c6e&height=160&section=header&text=Your%20Name&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45&fontAlign=50&desc=Production%20Engineer%20%7C%20Aspiring%20Data%20Engineer%20%7C%20Problem%20Solver&descSize=15&descAlignY=68&descColor=ffffff&descAnimation=twinkling"/>
+Data Engineering Enthusiast | Building E2E Data Pipelines
+---------------------------------------------------------
 
-</div>
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="https://medium.com/@your-medium" target="_blank">
-  <img src="https://img.shields.io/badge/-000000?style=flat&logo=medium&logoColor=white"
-       width="32"
-       height="32"
-       alt="Medium" /></a>
+🚀 Aspiring Data Engineer | Transitioning from Production Engineering
+
+I am a former \*\*Electrical Engineering graduate\*\* current working as a \*\*Production Engineer\*\*, who has discovered a deep passion for data architecture and pipeline design. I am actively bridging the gap between hardware systems engineering and the modern data stack to transition into a full-time \*\*Data Engineering\*\* role. With a structured mindset focused on efficiency and continuous learning, I love breaking down complex data challenges, building scalable pipelines, and turning raw data into high-quality, reliable assets.
+
+\---
+
+🌌 What I'm Up To Right Now
+
+\- 🎓 Currently refining my skills through an intensive \*\*Data Engineering Bootcamp\*\*.
+
+\- 🛠️ Building a real-time data streaming portfolio project using \*\*Azure Event Hubs\*\*, \*\*Azure Databricks\*\*, and \*\*Power BI\*\*.
+
+\- 🎬 Developing an enterprise-grade Netflix Data Warehouse pipeline using \*\*Databricks PySpark Structured Streaming\*\* and \*\*Change Data Feed (CDF)\*\*—implementing a \*\*Medallion Architecture\*\*, \*\*SCD Type 2\*\*, \*\*DQ Framework*\*, and \*\*Snowflake/Star Schema\*\* optimization
+
+\- 🎯 Aiming for the \*\*Databricks Certified Data Engineer Associate\*\* certification next.
+
+\---
+
+* 🌍  I'm based in Thailand
+* ✉️  You can contact me at [pongsakronk007@gmail.com](mailto:pongsakronk007@gmail.com)
+* 🧠  I'm currently learning Databricks for Data Engineers Bootcamp2
+* 💬  Ask me about Amor Fati — Embrace the challenges, focus on what you can control, and master the craft day by day. I apply a disciplined, growth-oriented mindset to both software engineering and personal development, ensuring every pipeline I build is as robust and reliable as an industrial control system.
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 </p>
 
-I am a Production Engineer transitioning into Data Engineering. I enjoy building efficient data pipelines, working with big data infrastructure, and creating scalable data solutions.
+### Socials
 
-That's why I like to make things that make a difference.
+<p align="left"> <a href="https://www.github.com/Pongsakron007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/@pongsakronk007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.facebook.com/พงศกร กุลนาดา" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+### Badges
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<b>My GitHub Stats</b>
 
-### Talking about Personal Stuff:
+<a href="http://www.github.com/Pongsakron007"><img src="https://github-readme-stats.vercel.app/api?username=Pongsakron007&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=10b981&icon_color=000000&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Pongsakron007's GitHub stats" /></a>
 
-- 👨‍🎓 I'm a **Production Engineer** transitioning to **Data Engineer**
-- 💬 PySpark · SQL · Databricks · Apache Airflow · Azure Cloud · Data Engineering
-- ✍ I'm a **Technical Writer** on Medium writing about Data Engineering projects
-- 📬 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- 💪 This is where I write, code and solve problems:
+<a href="http://www.github.com/Pongsakron007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pongsakron007&stroke=10b981&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
----
-
-## 🛠️ My Favourite tools
-
-### 👨‍💻 Programming languages & Core Tech
-
-<p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-</p>
-
-### 🧰 Frameworks, Libraries & Big Data Tools
-
-<p>
-    <a href="#"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white"></a>
-    <a href="#"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases, Cloud & Orchestration
-
-<p>
-    <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white"></a>
-    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-<table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-            <br>Python
-        </td>
-        <td align="center" width="90">
-            <img src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" width="45" height="45" alt="SQL" />
-            <br>SQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
-            <br>Azure
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-            <br>Docker
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-            <br>PostgreSQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-            <br>MySQL
-        </td>
-    </tr>
-</table>
-<br />
-
-<h2 align="center"> Data & Engineering Stats Matrix</h2>
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=100&section=header&text=Your%20GitHub%20Username&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-</div>
-<br/><br/>
-
-## 📕Latest Blog Posts
-
-- [Apache Spark End-To-End Data Engineering Project Ep.1](https://medium.com/@your-medium)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:08f7fe,60:ff2e63,100:8a2be2&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<a href="https://github.com/Pongsakron007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pongsakron007&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
