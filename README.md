@@ -84,15 +84,15 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>Azure
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=databricks" width="45" height="45" alt="Databricks" />
+            <img src="https://cdn.simpleicons.org/databricks/FF3621" width="45" height="45" alt="Databricks" />
             <br>Databricks
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Airflow" />
+            <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="45" height="45" alt="Airflow" />
             <br>Airflow
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=dbt" width="45" height="45" alt="dbt" />
+            <img src="https://cdn.simpleicons.org/dbt/FF694B" width="45" height="45" alt="dbt" />
             <br>dbt
         </td>
         <td align="center" width="90">
