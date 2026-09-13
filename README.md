@@ -123,9 +123,9 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
   <a href="https://medium.com/@pongsakronk007" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.facebook.com/%E0%B8%00%E0%B8%87%E0%B8%A0%E0%B8%81%E0%B8%A3%20%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B2" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+<a href="https://web.facebook.com/phngskr.kul.na.da" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
   <a href="mailto:pongsakronk007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
