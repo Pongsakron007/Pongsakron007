@@ -80,25 +80,19 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>SQL
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="Azure" />
+            <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
             <br>Azure
         </td>
         <td align="center" width="90">
-            <a href="#">
-                <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-            </a>
+            <img src="https://cdn.simpleicons.org/databricks/FF3621" width="45" height="45" alt="Databricks" />
             <br>Databricks
         </td>
         <td align="center" width="90">
-            <a href="#">
-                <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48" height="48" alt="Airflow" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-            </a>
+            <img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Airflow" />
             <br>Airflow
         </td>
         <td align="center" width="90">
-            <a href="#">
-                <img src="https://cdn.simpleicons.org/dbt/FF694B" width="48" height="48" alt="dbt" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
-            </a>
+            <img src="https://skillicons.dev/icons?i=dbt" width="45" height="45" alt="dbt" />
             <br>dbt
         </td>
         <td align="center" width="90">
@@ -106,10 +100,7 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>Docker
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="0" height="0" alt="" style="display:none;" />
-            <a href="#">
-                <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'" />
-            </a>
+            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
             <br>PostgreSQL
         </td>
     </tr>
