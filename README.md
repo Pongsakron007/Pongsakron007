@@ -45,6 +45,7 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
 <p>
     <a href="#"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white"></a>
     <a href="#"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white"></a>
+    <a href="#"><img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
 </p>
@@ -65,13 +66,13 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 <table align="center">
     <tr>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
             <br>Python
         </td>
         <td align="center" width="90">
@@ -83,16 +84,24 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
             <br>Azure
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=databricks" width="45" height="45" alt="Databricks" />
+            <br>Databricks
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Airflow" />
+            <br>Airflow
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=dbt" width="45" height="45" alt="dbt" />
+            <br>dbt
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
             <br>Docker
         </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
             <br>PostgreSQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-            <br>MySQL
         </td>
     </tr>
 </table>
