@@ -1,9 +1,13 @@
-name: Generate Pacman Contribution Graph
+name: Generate Pacman Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
 
 permissions:
   contents: write
@@ -11,20 +15,26 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-light
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#facc15
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Move files to dist
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/ 2>/dev/null || true
+          mv pacman-contribution-graph-dark.svg dist/ 2>/dev/null || true
+          ls -R dist/
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
