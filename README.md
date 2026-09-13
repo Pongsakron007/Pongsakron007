@@ -125,7 +125,7 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
 <div align="center">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pongsakron007&theme=tokyonight" alt="GitHub Stats Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pongsakron007&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
