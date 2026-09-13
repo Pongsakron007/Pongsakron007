@@ -126,11 +126,10 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pongsakron007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pongsakron007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pongsakron007/Pongsakron007/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+  <img src="https://github.com/Pongsakron007/Pongsakron007/raw/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 
 </div>
