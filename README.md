@@ -121,15 +121,26 @@ I am a former **Electrical Engineering graduate** currently working as a **Produ
 
 ---
 
-### Badges
+<h2 align="center">📊 Data & Engineering Stats Matrix</h2>
+<div align="center">
 
-<b>My GitHub Stats</b>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=100&section=header&text=Pongsakron007&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
 
-<p align="left">
-  <a href="http://www.github.com/Pongsakron007"><img src="https://github-readme-stats.vercel.app/api?username=Pongsakron007&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=10b981&icon_color=000000&bg_color=1e3a8a&hide_border=true" alt="Pongsakron007's GitHub stats" /></a>
-  <a href="http://www.github.com/Pongsakron007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pongsakron007&stroke=10b981&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-  <a href="https://github.com/Pongsakron007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pongsakron007&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pongsakron007&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pongsakron007/Pongsakron007/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pongsakron007/Pongsakron007/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pongsakron007/Pongsakron007/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+</div>
+
+---
 
 ## 📕 Latest Blog Posts
 
